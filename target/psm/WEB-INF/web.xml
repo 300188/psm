@@ -1,0 +1,135 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>psm</display-name>
+
+  <filter>
+    <filter-name>PermissionFilter</filter-name>
+    <filter-class>cn.edu.mju.web.filter.PermissionFilter</filter-class>
+  </filter>
+
+  <filter>
+    <filter-name>DownPermissionFilter</filter-name>
+    <filter-class>cn.edu.mju.web.filter.DownPermissionFilter</filter-class>
+  </filter>
+
+  <filter-mapping>
+    <filter-name>PermissionFilter</filter-name>
+    <url-pattern>/toMainPage</url-pattern>
+  </filter-mapping>  <filter-mapping>
+    <filter-name>PermissionFilter</filter-name>
+    <url-pattern>/logoutServlet</url-pattern>
+  </filter-mapping>
+  <filter-mapping>
+    <filter-name>PermissionFilter</filter-name>
+    <url-pattern>/user/*</url-pattern>
+  </filter-mapping>
+  <filter-mapping>
+    <filter-name>PermissionFilter</filter-name>
+    <url-pattern>/employee/*</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>PermissionFilter</filter-name>
+    <url-pattern>/role/*</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>PermissionFilter</filter-name>
+    <url-pattern>/permission/*</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>PermissionFilter</filter-name>
+    <url-pattern>/department/*</url-pattern>
+  </filter-mapping>
+
+
+  <filter-mapping>
+    <filter-name>PermissionFilter</filter-name>
+    <url-pattern>/position/*</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>PermissionFilter</filter-name>
+    <url-pattern>/contract/*</url-pattern>
+  </filter-mapping>
+
+<filter-mapping>
+    <filter-name>PermissionFilter</filter-name>
+    <url-pattern>/record/*</url-pattern>
+  </filter-mapping>
+  <filter-mapping>
+    <filter-name>PermissionFilter</filter-name>
+    <url-pattern>/log/*</url-pattern>
+  </filter-mapping>
+  <filter-mapping>
+    <filter-name>PermissionFilter</filter-name>
+    <url-pattern>/salary/*</url-pattern>
+  </filter-mapping>
+
+
+  <filter-mapping>
+    <filter-name>DownPermissionFilter</filter-name>
+    <url-pattern>/user/*</url-pattern>
+  </filter-mapping>
+  <filter-mapping>
+    <filter-name>DownPermissionFilter</filter-name>
+    <url-pattern>/employee/*</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>DownPermissionFilter</filter-name>
+    <url-pattern>/role/*</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>DownPermissionFilter</filter-name>
+    <url-pattern>/permission/*</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>DownPermissionFilter</filter-name>
+    <url-pattern>/contract/*</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>DownPermissionFilter</filter-name>
+    <url-pattern>/department/*</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>DownPermissionFilter</filter-name>
+    <url-pattern>/position/*</url-pattern>
+  </filter-mapping>
+
+
+  <filter-mapping>
+    <filter-name>DownPermissionFilter</filter-name>
+    <url-pattern>/record/*</url-pattern>
+  </filter-mapping>
+  <filter-mapping>
+    <filter-name>DownPermissionFilter</filter-name>
+    <url-pattern>/log/*</url-pattern>
+  </filter-mapping>
+  <filter-mapping>
+    <filter-name>DownPermissionFilter</filter-name>
+    <url-pattern>/salary/*</url-pattern>
+  </filter-mapping>
+
+
+
+
+
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+
+  <error-page>
+    <error-code>404</error-code>
+    <location>/404.jsp</location>
+  </error-page>
+
+</web-app>

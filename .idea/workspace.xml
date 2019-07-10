@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="psm:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/BaseServlet.java" line="42" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2f33c40-6231-47e7-97b0-87aec1adcc8a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="psm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="207" column="71" lean-forward="true" selection-start-line="206" selection-start-column="32" selection-end-line="207" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee/add.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee/data.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="edit.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee/edit.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="assign.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee/assign.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/ToMainPageServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/ValidateCodeServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/entity/Contract.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee/addContract.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee/editContract.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/service/ContractService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/ContractDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee/contract.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee/page.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/ContractServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/contract/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/contract/edit.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/contract/add.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/daoImpl/ContratDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/RecordDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/entity/Record.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/daoImpl/RecordDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/service/serviceImpl/ContractServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/BaseServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/user/UserServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/role/RoleServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/position/PositionServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/permission/PermissionServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/employee/EmployeeServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/department/DepartmentServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/contract/ContractServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/service/RecordService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/service/serviceImpl/RecordServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/record/RecordServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/record/edit.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/record/add.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/entity/Log.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/entity/Salary.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/record/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/salary/edit.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/LogServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/service/SalaryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/service/serviceImpl/SalaryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/SalaryDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/daoImpl/SalaryDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/salary/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/web/filter/DownPermissionFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/service/LogService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/service/serviceImpl/LogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/LogDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/daoImpl/LogDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/log/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/salary/add.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/SalaryServlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="userSettingsFile" value="D:\maven\repository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="6" />
+    <option name="width" value="1389" />
+    <option name="height" value="1389" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="mju" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="mju" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="mju" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="daoImpl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="mju" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="mju" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="mju" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="listener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="mju" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="employee" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="RecordS&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/service/serviceImpl/RecordServiceImpl.java&#10;Re&#9;PSI&#9;JAVA://cn.edu.mju.entity.Record&#10;D&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/utils/DBUtils.java&#10;ToM&#9;PSI&#9;JAVA://cn.edu.mju.web.servlet.ToMainPageServlet&#10;Permiss&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/dao/daoImpl/PermissionDaoImpl.java&#10;De&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/entity/Department.java&#10;Empl&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/dao/daoImpl/EmployeeDaoImpl.java&#10;Emp&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/entity/Employee.java&#10;E&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/dao/daoImpl/EmployeeDaoImpl.java&#10;Em&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/service/serviceImpl/EmployeeServiceImpl.java&#10;Emplo&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/dao/daoImpl/EmployeeDaoImpl.java&#10;EmployeeD&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/dao/daoImpl/EmployeeDaoImpl.java&#10;Po&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/dao/daoImpl/PositionDaoImpl.java&#10;position/e&#9;FILE&#9;file://D:/idea_sources/psm/src/main/webapp/WEB-INF/jsp/position/edit.jsp&#10;in&#9;FILE&#9;file://D:/idea_sources/psm/src/main/webapp/WEB-INF/jsp/employee/index.jsp&#10;index&#9;FILE&#9;file://D:/idea_sources/psm/src/main/webapp/WEB-INF/jsp/employee/index.jsp&#10;In&#9;FILE&#9;file://D:/idea_sources/psm/src/main/webapp/WEB-INF/jsp/employee/index.jsp&#10;employee/in&#9;FILE&#9;file://D:/idea_sources/psm/src/main/webapp/WEB-INF/jsp/employee/index.jsp&#10;Employ&#9;PSI&#9;JAVA://cn.edu.mju.entity.Employee&#10;Position&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/dao/daoImpl/PositionDaoImpl.java&#10;PositionSer&#9;PSI&#9;JAVA://cn.edu.mju.service.serviceImpl.PositionServiceImpl&#10;P&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/dao/daoImpl/PermissionDaoImpl.java&#10;Permission&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/service/serviceImpl/PermissionServiceImpl.java&#10;Edi&#9;FILE&#9;file://D:/idea_sources/psm/src/main/webapp/WEB-INF/jsp/permission/edit.jsp&#10;Per&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/service/serviceImpl/PermissionServiceImpl.java&#10;IN&#9;FILE&#9;file://D:/idea_sources/psm/src/main/webapp/WEB-INF/jsp/permission/index.jsp&#10;U&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/dao/daoImpl/UserDaoImpl.java&#10;PermissionS&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/service/serviceImpl/PermissionServiceImpl.java&#10;PermissionD&#9;PSI&#9;JAVA://cn.edu.mju.dao.daoImpl.PermissionDaoImpl&#10;user/in&#9;FILE&#9;file://D:/idea_sources/psm/src/main/webapp/WEB-INF/jsp/user/index.jsp&#10;permission/add.jsp&#9;FILE&#9;file://D:/idea_sources/psm/src/main/webapp/WEB-INF/jsp/permission/add.jsp&#10;RoleDao&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/dao/daoImpl/RoleDaoImpl.java&#10;edit.jsp&#9;FILE&#9;file://D:/idea_sources/psm/src/main/webapp/WEB-INF/jsp/role/edit.jsp&#10;UserDao&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/dao/daoImpl/UserDaoImpl.java&#10;Info&#9;PSI&#9;JAVA://cn.edu.mju.entity.Information&#10;UserS&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/service/serviceImpl/UserServiceImpl.java&#10;UserD&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/dao/daoImpl/UserDaoImpl.java&#10;UserSer&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/service/serviceImpl/UserServiceImpl.java&#10;UserServiceI&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/service/serviceImpl/UserServiceImpl.java&#10;UserDa&#9;FILE&#9;file://D:/idea_sources/psm/src/main/java/cn/edu/mju/dao/daoImpl/UserDaoImpl.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.edu.mju.dao.daoImpl" />
+      <recent name="cn.edu.mju.dao" />
+      <recent name="cn.edu.mju.service.serviceImpl" />
+      <recent name="cn.edu.mju.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_sources\psm\src\main\webapp\WEB-INF\jsp\salary" />
+      <recent name="D:\idea_sources\psm\src\main\webapp\WEB-INF\jsp\log" />
+      <recent name="D:\idea_sources\psm\src\main\webapp\WEB-INF\jsp\record" />
+      <recent name="D:\idea_sources\psm\src\main\webapp\WEB-INF\jsp\employee" />
+      <recent name="D:\idea_sources\psm\src\main\java\cn\edu\mju\web\servlet" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.edu.mju.web.servlet.employee" />
+      <recent name="cn.edu.mju.web.servlet.department" />
+      <recent name="cn.edu.mju.web.servlet.position" />
+      <recent name="cn.edu.mju.web.servlet.role" />
+      <recent name="cn.edu.mju.enums" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea_sources\psm\src\main\webapp\WEB-INF\jsp\contract" />
+      <recent name="D:\idea_sources\psm\src\main\webapp\css" />
+      <recent name="D:\idea_sources\psm\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.psm">
+    <configuration name="ExcelUtils$JXLExport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.mju.utils.ExcelUtils$JXLExport" />
+      <module name="psm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.mju.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="BaseDaoTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="psm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BaseDaoTest" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BaseDaoTest.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="psm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BaseDaoTest" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BaseDaoTest.query" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="psm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BaseDaoTest" />
+      <option name="METHOD_NAME" value="query" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BaseDaoTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="psm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BaseDaoTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="psm" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="psm:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_psm" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61315" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="psm:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.psm" />
+      <item itemvalue="Application.ExcelUtils$JXLExport" />
+      <item itemvalue="JUnit.BaseDaoTest.query" />
+      <item itemvalue="JUnit.BaseDaoTest.insert" />
+      <item itemvalue="JUnit.BaseDaoTest.delete" />
+      <item itemvalue="JUnit.BaseDaoTest.update" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BaseDaoTest.query" />
+        <item itemvalue="JUnit.BaseDaoTest.update" />
+        <item itemvalue="JUnit.BaseDaoTest.delete" />
+        <item itemvalue="JUnit.BaseDaoTest.insert" />
+        <item itemvalue="Application.ExcelUtils$JXLExport" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\xzc\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2f33c40-6231-47e7-97b0-87aec1adcc8a" name="Default" comment="" />
+      <created>1557043147357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557043147357</updated>
+      <workItem from="1557043149984" duration="321000" />
+      <workItem from="1557102902579" duration="157000" />
+      <workItem from="1557709966941" duration="3478000" />
+      <workItem from="1557747638411" duration="7691000" />
+      <workItem from="1557801129895" duration="1148000" />
+      <workItem from="1557804448429" duration="195000" />
+      <workItem from="1557815408268" duration="9737000" />
+      <workItem from="1557900578244" duration="20554000" />
+      <workItem from="1558069651648" duration="14687000" />
+      <workItem from="1558168863291" duration="9183000" />
+      <workItem from="1558234838269" duration="7347000" />
+      <workItem from="1558313619228" duration="4704000" />
+      <workItem from="1558406117227" duration="2864000" />
+      <workItem from="1558605079203" duration="33000" />
+      <workItem from="1558687883703" duration="6349000" />
+      <workItem from="1558767335728" duration="19779000" />
+      <workItem from="1558918337546" duration="104000" />
+      <workItem from="1558947424642" duration="372000" />
+      <workItem from="1559010681263" duration="5609000" />
+      <workItem from="1559026724027" duration="21541000" />
+      <workItem from="1559112915615" duration="9786000" />
+      <workItem from="1559203397105" duration="18698000" />
+      <workItem from="1559285924606" duration="12052000" />
+      <workItem from="1559364993614" duration="32337000" />
+      <workItem from="1559452413099" duration="21733000" />
+      <workItem from="1559523251434" duration="4696000" />
+      <workItem from="1559554344169" duration="2841000" />
+      <workItem from="1559615444703" duration="557000" />
+      <workItem from="1559628679623" duration="26780000" />
+      <workItem from="1559659086955" duration="1881000" />
+      <workItem from="1559662661358" duration="1859000" />
+      <workItem from="1559711222340" duration="100000" />
+      <workItem from="1559712189371" duration="4235000" />
+      <workItem from="1559743560464" duration="109000" />
+      <workItem from="1559797014309" duration="172000" />
+      <workItem from="1559877154288" duration="1376000" />
+      <workItem from="1559889878809" duration="68000" />
+      <workItem from="1559893653963" duration="673000" />
+      <workItem from="1559961962200" duration="17315000" />
+      <workItem from="1559980687845" duration="2205000" />
+      <workItem from="1559984909743" duration="1998000" />
+      <workItem from="1559991982342" duration="7125000" />
+      <workItem from="1560089684472" duration="127000" />
+      <workItem from="1560090897646" duration="819000" />
+      <workItem from="1560126833045" duration="4716000" />
+      <workItem from="1560154949553" duration="1259000" />
+      <workItem from="1560165999479" duration="43000" />
+      <workItem from="1560167816884" duration="2080000" />
+      <workItem from="1560220232122" duration="3056000" />
+      <workItem from="1560494774106" duration="636000" />
+      <workItem from="1560735622794" duration="11550000" />
+      <workItem from="1560773369827" duration="1033000" />
+      <workItem from="1560998015109" duration="435000" />
+      <workItem from="1561010532562" duration="1213000" />
+      <workItem from="1561889259528" duration="63000" />
+      <workItem from="1561961888939" duration="306000" />
+      <workItem from="1562145401273" duration="1980000" />
+      <workItem from="1562153730549" duration="897000" />
+      <workItem from="1562417661669" duration="599000" />
+      <workItem from="1562420754654" duration="7000" />
+      <workItem from="1562421198611" duration="634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BaseDaoTest_query - 2019.06.04 at 14h 50m 38s.xml">
+      <configuration name="BaseDaoTest.query" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaseDaoTest_insert - 2019.06.04 at 15h 06m 39s.xml">
+      <configuration name="BaseDaoTest.insert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaseDaoTest_insert - 2019.06.04 at 15h 07m 23s.xml">
+      <configuration name="BaseDaoTest.insert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaseDaoTest_query - 2019.06.04 at 15h 08m 23s.xml">
+      <configuration name="BaseDaoTest.query" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaseDaoTest_delete - 2019.06.04 at 15h 12m 25s.xml">
+      <configuration name="BaseDaoTest.delete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaseDaoTest_update - 2019.06.04 at 15h 14m 41s.xml">
+      <configuration name="BaseDaoTest.update" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaseDaoTest_update - 2019.06.04 at 15h 15m 07s.xml">
+      <configuration name="BaseDaoTest.update" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaseDaoTest_query - 2019.06.04 at 15h 24m 00s.xml">
+      <configuration name="BaseDaoTest.query" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaseDaoTest_query - 2019.06.04 at 15h 27m 11s.xml">
+      <configuration name="BaseDaoTest.query" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaseDaoTest_query - 2019.06.04 at 15h 27m 30s.xml">
+      <configuration name="BaseDaoTest.query" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="335902000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1455" height="944" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.10062457" side_tool="true" weight="0.30704898" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.3297491" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47789726" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297491" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" x="0" y="286" width="1441" height="358" id="Run" order="2" sideWeight="0.89937544" weight="0.609319" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.70053476" visible="true" weight="0.25607216" />
+      <window_info id="Web" order="6" sideWeight="0.5017241" side_tool="true" weight="0.2609299" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="5" sideWeight="0.29946524" side_tool="true" weight="0.23941708" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.50179213" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5555556" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/role/RoleServlet.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/role/RoleServlet.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/daoImpl/RoleDaoImpl.java</url>
+          <line>173</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/daoImpl/SalaryDaoImpl.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="47" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/record/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1709">
+          <caret line="105" column="31" lean-forward="true" selection-start-line="105" selection-start-column="31" selection-end-line="105" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/record/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="101" column="31" lean-forward="true" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/ContractDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/entity/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/entity/Permission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/entity/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/entity/Information.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/entity/Contract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="29" column="102" selection-start-line="29" selection-start-column="102" selection-end-line="29" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/entity/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/entity/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/user/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.edu.mju.service.PositionService">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.edu.mju.service.PositionService</OriginalElement>
+          <nodes>
+            <node x="" y="">cn.edu.mju.service.PositionService</node>
+            <node x="" y="">cn.edu.mju.service.BaseService</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="67.0" y="56.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/service/PositionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/daoImpl/BaseDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2948">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/entity/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/entity/Salary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/record/add.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/record/RecordServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="254" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="254" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/contract/ContractServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="277" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="277" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/LogServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="60" column="48" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/web/listener/PATHListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/service/SalaryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/SalaryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/service/serviceImpl/SalaryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/daoImpl/RecordDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="185" column="13" selection-start-line="185" selection-start-column="13" selection-end-line="185" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/daoImpl/ContractDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="202" column="5" lean-forward="true" selection-start-line="202" selection-start-column="5" selection-end-line="202" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/record/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="55" column="31" lean-forward="true" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/service/LogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/service/serviceImpl/LogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/LogDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/daoImpl/LogDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="106" column="22" lean-forward="true" selection-start-line="106" selection-start-column="22" selection-end-line="106" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/log/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="159" column="57" lean-forward="true" selection-start-line="159" selection-start-column="57" selection-end-line="159" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/salary/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="164" column="28" lean-forward="true" selection-start-line="164" selection-start-column="28" selection-end-line="164" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/salary/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1093">
+          <caret line="132" column="37" selection-start-line="132" selection-start-column="37" selection-end-line="132" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/salary/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="119" column="43" lean-forward="true" selection-start-line="119" selection-start-column="43" selection-end-line="119" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/dao/daoImpl/SalaryDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/SalaryServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="246" lean-forward="true" selection-start-line="246" selection-end-line="246" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/web/filter/PermissionFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/web/filter/DownPermissionFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="28" column="98" lean-forward="true" selection-start-line="28" selection-start-column="98" selection-end-line="28" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="201" column="39" lean-forward="true" selection-start-line="201" selection-start-column="39" selection-end-line="201" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/mju/web/servlet/BaseServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee/data.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee/assign.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="207" column="71" lean-forward="true" selection-start-line="206" selection-start-column="32" selection-end-line="207" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>psm:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>psm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20646067" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet:javax.servlet-api:3.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
